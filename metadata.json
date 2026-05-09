@@ -1,0 +1,6 @@
+{
+  "name": "IntervAI",
+  "description": "Smart AI-powered interview practice with real-time feedback and detailed performance reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
